@@ -9,3 +9,9 @@ Todos os padrões de projetos estudados no cruso de python 3 do otavio Miranda
 - Factory Method
 - Abstract Factory
 - Builder
+- singleton
+- monostate
+- prototype
+### Comportamento:
+- strategy
+- observer
